@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce_node_mvc",
+  "version": "1.0.0",
+  "description": "Will write it later...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JalajYadav/eCommerce_Node_MVC.git"
+  },
+  "author": "jalajYadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JalajYadav/eCommerce_Node_MVC/issues"
+  },
+  "homepage": "https://github.com/JalajYadav/eCommerce_Node_MVC#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
